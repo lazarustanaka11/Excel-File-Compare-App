@@ -18,13 +18,8 @@
 - run ```pip install - e .``` from the root folder
 ### How to use
  - run ```python file_compare_app.py``` and supply the excel sheets to compare.
- - Example sheets and the result are found in examples folder
+ - Example sheets and the result are found in the repository
  - Upload sheet1 and sheet2 from the computer and hit compare
  - This will create a new file called comparison.xlsx in the root folder, which can also be viewed after creation
 
-### Extra steps
-   - Make it into an app using pyinstaller using the following commands
-   ```bash
-   pip install pyinstaller
-   pyinstaller file_compare_app.py 
-   ```
+

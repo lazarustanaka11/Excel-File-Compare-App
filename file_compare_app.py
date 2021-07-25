@@ -16,7 +16,7 @@ class compare_sheets(object):
         self.window.configure(background="black")
         self.label = tk.Label(text="Compare two excel sheets".upper(),
                               background="black",
-                              foreground="#4FFC6C"
+                              foreground="#C8B76E"
                             )
         self.label.pack()
         self.progress_label = tk.Label(self.window)

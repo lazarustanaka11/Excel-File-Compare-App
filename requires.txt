@@ -1,0 +1,4 @@
+setuptools>=57.0.0
+pandas>=0.23.0
+numpy>=1.15.0
+pyinstaller>=3.4

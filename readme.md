@@ -22,4 +22,6 @@
  - Upload sheet1 and sheet2 from the computer and hit compare
  - This will create a new file called comparison.xlsx in the root folder, which can also be viewed after creation
 
+ - 
+
 
